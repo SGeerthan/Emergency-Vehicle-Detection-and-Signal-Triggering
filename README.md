@@ -22,5 +22,31 @@ This system uses **AI + Simulation + Smart Traffic Control** to detect emergency
 
 ---
 
-## ⚙️ System Architecture
+---
+
+## 🛠️ Technologies Used
+
+### 🔹 AI & Detection
+- YOLOv5 / YOLOv8
+- OpenCV
+- TensorFlow / PyTorch
+- MFCC (Librosa)
+- Haar Cascade
+- HSV Color Segmentation
+
+### 🔹 Simulation
+- SUMO (Simulation of Urban Mobility)
+- TraCI Python API
+- NetEdit
+
+### 🔹 Dashboard
+- React.js
+- Flask / FastAPI
+- Chart.js
+
+### 🔹 Tools
+- Google Colab (Model Training)
+- LabelImg / Roboflow (Dataset Annotation)
+- JIRA (Project Management)
+
 
